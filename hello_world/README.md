@@ -6,3 +6,4 @@
 - `1-compiler`: Compiles a C file ($CFILE) and generates an object file named like the C file but with the extension .o, without linking.
 - `2-assembler`: Generates the assembly code of a C file ($CFILE) and saves it in a file named like the C file but with the extension .s.
 - `5-printf.c`: C program that prints exactly "with proper grammar, but the outcome is a piece of art," followed by a new line.
+- `6-size.c`: C program that prints the size of various types on the computer it is compiled and run on.
