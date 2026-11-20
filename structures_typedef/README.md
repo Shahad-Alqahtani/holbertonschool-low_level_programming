@@ -18,3 +18,7 @@
 ### 4. A door is what a dog is perpetually on the wrong side of
 
 - **4-new_dog.c**: Creates a new dog and stores copies of its name and owner.
+
+### 5. How many legs does a dog have if you call his tail a leg?
+
+- **5-free_dog.c**: Frees the memory allocated for a dog structure.
