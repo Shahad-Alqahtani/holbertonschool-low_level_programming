@@ -10,3 +10,7 @@
 ### 2. A dog will teach you unconditional love
 
 - **2-print_dog.c**: Prints the name, age, and owner of a dog structure.
+
+### 3. Outside of a dog, a book is a man's best friend
+
+- **dog.h**: Defines dog_t as an alias for struct dog.
