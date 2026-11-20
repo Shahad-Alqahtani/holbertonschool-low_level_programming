@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdlib.h>
 
 /**
@@ -9,11 +8,11 @@
  */
 void *malloc_checked(unsigned int b)
 {
-    void *rainbow;
+	void *rainbow;
 
-    rainbow = malloc(b);
-    if (rainbow == NULL)
-        exit(98);
+	rainbow = malloc(b);
+	if (rainbow == NULL)
+		exit(98);
 
-    return (rainbow);
+	return (rainbow);
 }
