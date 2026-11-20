@@ -14,3 +14,7 @@
 ### 3. Outside of a dog, a book is a man's best friend
 
 - **dog.h**: Defines dog_t as an alias for struct dog.
+
+### 4. A door is what a dog is perpetually on the wrong side of
+
+- **4-new_dog.c**: Creates a new dog and stores copies of its name and owner.
